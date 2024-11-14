@@ -19,4 +19,4 @@ Passionné par le développement web et actuellement en formation, je me spécia
 - Créer des projets concrets pour renforcer mon portfolio.
 
 ## Contact
-Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/ton-profil/) ou par email pour toute question ou collaboration. 
+Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/nabil-el-ayoubi-2022411a4/) ou par email pour toute question ou collaboration. 
