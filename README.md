@@ -5,7 +5,7 @@
 Passionné par le développement web et actuellement en formation, je me spécialise dans HTML, CSS, JavaScript, et Python. Sur ce profil, vous trouverez mes projets, exercices, et exemples de ma progression en développement web et programmation.
 
 ## Compétences Techniques
-- **Langages** : HTML, CSS, JavaScript (en cours d'apprentissage), Python (en cours d'apprentissage)
+- **Langages** : HTML, CSS, JavaScript, Python (en cours d'apprentissage)
 - **Frameworks en cours de formation** : React, Next.js
 - **Outils** : Git, VS Code, Brevo (newsletter)
 
