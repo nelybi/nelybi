@@ -1,4 +1,4 @@
-## Salut! ☕
+## Salut ! ☕
 Je m'appelle Nabil, développeur web basé en France.  
 
 J’adore transformer des idées en interfaces modernes, rapides et accessibles, avec une attention particulière aux détails et à l’expérience utilisateur.  
@@ -7,4 +7,4 @@ En dehors du code, tu me trouveras souvent à la salle de sport, en train de lir
 
 ### Fun Facts  
 - J’aime le café et les films d’horreur.  
-- *Naruto* est mon manga préféré.  
+- Naruto est mon manga préféré.  
