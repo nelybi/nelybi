@@ -9,9 +9,9 @@ En dehors du code, tu me trouveras souvent à la salle de sport, en train de lir
 - J’aime le café et les films d’horreur.  
 - Naruto est mon manga préféré.  
 
-## 🎮 Mon inventaire de dev 
+## Et niveau techno que j’utilise 👇
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
