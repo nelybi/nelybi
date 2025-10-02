@@ -1,15 +1,15 @@
-## Salut ! ☕
-Je m'appelle Nabil, développeur web basé en France.  
+## Hi there! ☕  
+My name is Nabil, a web developer based in France.  
 
-J’adore transformer des idées en interfaces modernes, rapides et accessibles, avec une attention particulière aux détails et à l’expérience utilisateur.  
+I love turning ideas into modern, fast, and accessible interfaces, with a strong focus on detail and user experience.  
 
-En dehors du code, tu me trouveras souvent à la salle de sport, en train de lire sur le développement personnel ou à explorer de nouveaux outils tech. J’aime aussi partager mes apprentissages en ligne et documenter ma progression.  
+Outside of coding, you’ll often find me at the gym, reading about personal development, or exploring new tech tools. I also enjoy sharing my learnings online and documenting my journey.  
 
 ### Fun Facts  
-- J’aime le café et les films d’horreur.  
-- Naruto est mon manga préféré.  
+- I love coffee and horror movies.  
+- Naruto is my favorite anime.  
 
-<p align="center">Et niveau techno que j’utilise 👇</p>
+<p align="center">Here are some of the technologies I use 👇</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
