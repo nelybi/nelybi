@@ -1,4 +1,4 @@
-## Hi there! ☕  
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> 
 My name is Nabil, a web developer based in France.  
 
 I love turning ideas into modern, fast, and accessible interfaces, with a strong focus on detail and user experience.  
